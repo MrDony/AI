@@ -1,0 +1,9 @@
+{
+    "Locations":{
+       "1":"A",
+       "2":"B"
+    },
+    "ApplesCount":30,
+    "ApplesPerTrip":10,
+    "Tax":1
+ }
